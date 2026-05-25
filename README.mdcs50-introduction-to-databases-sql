@@ -1,0 +1,20 @@
+# CS50-s-Introduction-to-Databases-with-SQL---HU
+Self-learning repository documenting my journey through Harvard University’s CS50’s Introduction to Databases with SQL. Covers SQL fundamentals, database design, querying, joins, aggregations, normalization, and hands-on problem solving through practical exercises and projects.
+## Introduction
+This repository contains my notes, exercises, assignments, and practice projects completed while learning SQL and database concepts through Harvard University's CS50 course.
+
+## Topics Covered
+
+- SQL Fundamentals
+- Database Design
+- SELECT Queries
+- Filtering & Sorting
+- JOINs
+- Aggregations
+- Subqueries
+- Views & Indexes
+- Data Modeling
+- Analytical Problem Solving
+
+## Goal
+The goal of this repository is to strengthen my SQL, analytical thinking, and database management skills for Data Analyst and Business Analyst roles.
