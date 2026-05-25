@@ -1,0 +1,49 @@
+# Week 1 — SQL Basics & Introduction to Databases
+
+## Topics Learned
+
+- What is a Database?
+- Difference between Spreadsheets and Databases
+- Database Management Systems (DBMS)
+- Introduction to SQL
+- SQL Syntax & Query Structure
+- SELECT Statement
+- Filtering Data using WHERE
+- Logical Operators (AND, OR, NOT)
+- Pattern Matching using LIKE
+- Sorting using ORDER BY
+- Aggregate Functions:
+  - COUNT()
+  - AVG()
+  - SUM()
+  - MIN()
+  - MAX()
+- LIMIT Clause
+- DISTINCT Keyword
+- NULL & IS NULL
+
+## Concepts Practiced
+
+- Querying tables using SELECT
+- Filtering rows with conditions
+- Sorting and limiting results
+- Using aggregate functions for analysis
+- Basic data exploration techniques
+
+## Tools Used
+- SQLite3
+- VS Code
+- SQL
+
+## Sample SQL Concepts
+
+```sql
+SELECT "title"
+FROM "longlist"
+WHERE "year" = 2023;
+
+## Key Takeaways
+- Learned how relational databases store structured data
+- Understood how SQL is used to query and analyze datasets
+- Practiced filtering, sorting, and aggregating data using SQL queries
+- Explored basic database concepts including DBMS and tables
